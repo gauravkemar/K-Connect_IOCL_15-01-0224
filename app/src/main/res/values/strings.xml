@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">K-Connect IOCL</string>
+
+    <string-array name="selectgate">
+        <item>Select Gate</item>
+        <item>Gate1</item>
+        <item>Gate2</item>
+    </string-array>
+
+    <string name="bottom_left">Powered By Kemar Automation.</string>
+</resources>
